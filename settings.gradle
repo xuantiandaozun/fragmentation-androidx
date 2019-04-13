@@ -1,0 +1,1 @@
+include ':fragmentation-core-androidx', ':fragmentation-swipeback-androidx', ':fragmentation-with-androidx', ':demo-androidx', ':eventbus-activity-scope-androidx'
